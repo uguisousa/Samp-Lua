@@ -1,17 +1,15 @@
-"MADE BY OPCODEEXE" 
-"www.Youtube.com/TvOpcodeEXE"  
+FEITO POR OPCODEEXE
+www.Youtube.co/TOpcodeEXE
 
+🔹 Teclas para Ativar: ALT + X
+🔹 Tecla para Desativar: X
+🔹 Entrar rápido no carro: F10
+🔹 Sair rápido do carro: F10
+🔹 Segure ALT para voar mais devagar (frear)
+🔹 WASD = Mover
+🔹 SHIFT = Descer
+🔹 ESPAÇO = Subir
 
-Keys to Activate: ALT + X
-Key to deactivate: X
-Fast ENTER car: F10
-Fast EXIT car: F10
-HOLD ALT FOR SLOWER FLYING(BREAKING)
-WASD = MOVE
-SHIFT = DOWN
-SPACE = UP
-
-
-Have fun :D
+🎉 Divirta-se! 😃
 
 
